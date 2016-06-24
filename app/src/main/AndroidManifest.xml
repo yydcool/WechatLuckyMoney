@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="me.veryyoung.dingding.luckymoney">
+
+    <application android:label="微信红包">
+        <meta-data
+            android:name="xposedmodule"
+            android:value="true" />
+        <meta-data
+            android:name="xposeddescription"
+            android:value="自动抢微信红包。" />
+        <meta-data
+            android:name="xposedminversion"
+            android:value="30" />
+    </application>
+</manifest>
