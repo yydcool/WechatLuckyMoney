@@ -23,8 +23,8 @@ android {
         applicationId "me.veryyoung.wechat.luckymoney"
         minSdkVersion 15
         targetSdkVersion 23
-        versionCode 9
-        versionName "1.0.2"
+        versionCode 8
+        versionName "1.0.1"
     }
 
     buildTypes {
